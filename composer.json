@@ -1,0 +1,30 @@
+{
+    "name": "memnuniyetsizim/rrrewind",
+    "description": "rrrewind",
+    "homepage": "http://rrrewind.com",
+    "license": "GPL-2.0+",
+    "version": "0.1",
+    "keywords": ["rss", "reader", "rrrewind"],
+    "homepage": "https://github.com/memnuniyetsizim/rrrewind",
+    "authors": [
+        {
+            "name": "Mehmet Ali Ergut",
+            "homepage": "https://github.com/memnuniyetsizim",
+            "role": "Developer"
+        },
+        {
+            "name": "Engin Vardar",
+            "homepage": "https://github.com/enginvardar",
+            "role": "Developer"
+        },
+        {
+            "name": "Roberto Martinez",
+            "homepage": "https://github.com/earlyriser",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+	"php": ">=5.3.0",
+	"laravel/laravel": "v4.0.7"
+    }
+}
